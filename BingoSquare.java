@@ -4,8 +4,8 @@ import java.util.Random;
 /**
  * Bingo squares that contain a unique number between 1-75.
  * 
- * @author Daniel Mai, Baotuan Nguyen
- * @version 02/27/12
+ 
+ 
  */
 public class BingoSquare extends Rectangle
 {
