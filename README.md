@@ -21,4 +21,4 @@ Ability to click on squares to mark them
 Automatic updates for the computer player's grid
 
 ## Team Members:
-1. Aarya Walve
+1. Aarya Walve B-43
